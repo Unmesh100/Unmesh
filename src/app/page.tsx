@@ -132,7 +132,7 @@ const page = () => {
 <p className=" opacity-80 text-sm lg:text-xl lg:mb-2 font-medium">
                     Contributor @< span className="  text-blue-500  font-bold"> GSSoC'25 , TSoC'25</span> & <span className="  text-blue-500 font-bold ">SSoC'25 </span> 
                 </p> 
--->
+             -->
                 <div className="flex flex-col md:flex-row items-right mt-3 gap-1 md:gap-3">
                 <CopyCmd />
             
