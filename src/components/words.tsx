@@ -2,11 +2,11 @@ import React from "react";
 import { FlipWords } from "./ui/words";
 
 export function FlipWordsDemo() {
-  const words = [ "CPer", // bc space k lie bhi unicode 
+  const words = [ "CP'er", // bc space k lie bhi unicode 
     "MERN\u00A0Developer",
     "WEB-3\u00A0Enthusiast",
     
-    "DEVOPS\u00A0Enthusiast",
+    "DEVOPS\u00A0Engineer",
     "CODER",
   "Freelancer"]
 
