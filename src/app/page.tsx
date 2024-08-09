@@ -13,17 +13,7 @@ import { DockDemo } from "@/components/dock";
 import HoverImageComponent from "@/components/skills";
 import ReadmeDisplay from "@/components/readme";
 import ContactMe from "@/components/contact";
-import logo from 'public/favicon.jpg'; 
-const Header: React.FC = () => {
-    return (
-        <header>
-            <img src={favicon} alt="Logo" />
-  
-        </header>
-    );
-};
 
-export default Header;
 
 
 const projects = [
