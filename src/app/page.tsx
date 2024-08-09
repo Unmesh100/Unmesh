@@ -14,6 +14,18 @@ import HoverImageComponent from "@/components/skills";
 import ReadmeDisplay from "@/components/readme";
 import ContactMe from "@/components/contact";
 import logo from 'public/favicon.jpg'; 
+const Header: React.FC = () => {
+    return (
+        <header>
+            <img src={favicon} alt="Logo" />
+  
+        </header>
+    );
+};
+
+export default Header;
+
+
 const projects = [
     { title: ' Cards against Humanity', description: 'A game built with React.', icon: <FaReact className='text-blue-500' /> },
     { title: 'MagicDocs OpenSource', description: 'A Next.js documentation project', icon: <FaDatabase className='text-purple-500' /> },
