@@ -5,7 +5,6 @@ export function FlipWordsDemo() {
   const words = [ "CP'er", 
     "MERN\u00A0Developer",
     "WEB-3\u00A0Enthusiast",
-    
     "DEVOPS\u00A0Engineer",
     "CODER",
   "Freelancer"]
