@@ -10,7 +10,7 @@ export function FlipWordsDemo() {
   return (
     <div className="justify-center items-center px-4">
       <div className="text-4xl mx-auto font-normal text-neutral-600 dark:text-neutral-400 mt-5 mb-3">
-      I am a 
+      I am in 
         <FlipWords words={words} /> <br />
        
       </div>
