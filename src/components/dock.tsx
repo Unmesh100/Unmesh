@@ -23,7 +23,7 @@ export function DockDemo() {
           </a>
         </DockIcon>
         <DockIcon>
-        <a href=""  rel="noopener noreferrer">
+        <a href="https://medium.com/@bubunghosh1214"  rel="noopener noreferrer">
             <Icons.medium className="h-10 w-9" />
           </a>
         </DockIcon>
