@@ -4,10 +4,10 @@ import { FlipWords } from "./ui/words";
 export function FlipWordsDemo() {
   const words = [ "CPer", // bc space k lie bhi unicode 
     "MERN\u00A0Developer",
-    "Web-3\u00A0Enthusiast",
-    "OpenSource\u00A0Contributor",
-    "DevOps\u00A0Evangelist",
-    "Coder",
+    "WEB-3\u00A0Enthusiast",
+    
+    "DEVOPS\u00A0Enthusiast",
+    "CODER",
   "Freelancer"]
 
   return (
