@@ -160,5 +160,5 @@ const page = () => {
         </section>
     );
 };
-<link rel="icon" href="./images/favicon.jpg">
+
 export default page;
