@@ -7,6 +7,9 @@ import Footer from "@/components/footer";
 import { Toaster } from "@/components/ui/toaster";
 import Head from 'next/head';
 
+import Image from "assests/image";
+import logo from "public/assests/images/logo.png"; 
+
 
 const inter = Inter({ subsets: ["latin"] });
 
