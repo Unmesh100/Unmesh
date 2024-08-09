@@ -3,10 +3,9 @@ import { FlipWords } from "./ui/words";
 
 export function FlipWordsDemo() {
   const words = [ "CP", 
-    "MERN",
+    "FULLSTACK",
     "WEB-3",
-    "DEVOPS",
-  "EXPLORER"]
+    "DEVOPS"]
 
   return (
     <div className="justify-center items-center px-4">
