@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Unmesh",
-
+<link rel="icon" href="">
   description: "Personal Portfolio",
 };
 
