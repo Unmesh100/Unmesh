@@ -164,7 +164,7 @@ const AboutPage = () => {
 
     return (
         <div className="relative">
-           
+            
             <section className="lg:max-w-[50%] mt-10 md:mt-12 md:max-w-[90%] relative md:m-auto p-2 flex flex-col min-h-screen">
                 <div className="flex gap-3 flex-col justify-center items-left min-h-[60vh] lg:min-h-screen">
                     <div className='flex justify-center items-center'>
