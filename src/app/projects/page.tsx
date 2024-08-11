@@ -56,7 +56,7 @@ export default function Component() {
                     translateZ={20}
                     translateX={40}
                     as="a"
-                    href="https://github.com/kairveeehh/shehackss"
+                    href="https://github.com/Unmesh100/UG_JARVIS"
                     className="flex items-center px-4 py-2 text-white text-xl font-bold"
                   >
                     <GitHubLogoIcon className="w-8 h-8" />
