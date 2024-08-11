@@ -70,7 +70,7 @@ export default function Component() {
                   translateZ="60"
                   className="text-xl font-bold text-neutral-600 dark:text-white"
                 >
-                  MagicDocs - Goto openSource documentation
+                   UG_Weather - A Weather prediction Web-App
                 </CardItem>
                 <CardItem
                   as="p"
@@ -86,7 +86,7 @@ export default function Component() {
                   className="w-full mt-4"
                 >
                   <Image
-                    src="/assests/magicdocs.png"
+                    src="/assests/UG_Weather.png"
                     height="1000"
                     width="1000"
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
@@ -98,7 +98,7 @@ export default function Component() {
                     translateZ={20}
                     translateX={-40}
                     as="a"
-                    href="https://magic-docs-opal.vercel.app/"
+                    href="https://ugweather.netlify.app/"
                     className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white"
                   >
                     Live Link →
@@ -107,7 +107,7 @@ export default function Component() {
                     translateZ={20}
                     translateX={40}
                     as="a"
-                    href="https://github.com/kairveeehh/magic-docs"
+                    href="https://github.com/Unmesh100/UG_Weather
                     className="flex items-center px-4 py-2 text-white text-xl font-bold"
                   >
                     <GitHubLogoIcon className="w-8 h-8" />
