@@ -19,7 +19,7 @@ const CopyCmd = () => {
 
                 toast({
                     title: "Copied to clipboard",
-                    description: "Paste the command in your terminal :3",
+                    description: "Paste the command in your terminal .",
                 });
             })
             .catch((error) => {
