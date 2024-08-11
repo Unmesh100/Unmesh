@@ -9,7 +9,7 @@ export function LinkPreviewDemo() {
       <p className="text-neutral-500 dark:text-neutral-400 mt-0 text-xl md:text-3xl max-w-3xl mx-auto mb-10">
         I also createed 
         <LinkPreview url="https://github.com/Unmesh100/Unmesh100" className="font-bold">
-           an Animated ReadME On GITHUB.
+          <br/> an Animated ReadME On GITHUB.
         </LinkPreview>
        
      
