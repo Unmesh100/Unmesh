@@ -18,14 +18,14 @@ export default function Component() {
                   translateZ="50"
                   className="text-xl font-bold text-neutral-600 dark:text-white"
                 >
-                  PregCare - A pregnancy care service
+                  UG_JARVIS - A Virttual Assistance,
                 </CardItem>
                 <CardItem
                   as="p"
                   translateZ="60"
                   className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
                 >
-                  Javascript , Streamlit , Auth0 , Shadcn
+                  HTML , CSS , Bootstrap , Javascript 
                 </CardItem>
                 <CardItem
                   translateZ="100"
@@ -34,7 +34,7 @@ export default function Component() {
                   className="w-full mt-4"
                 >
                   <Image
-                    src="/assests/pregcaree.png"
+                    src="/assests/JARVIS.png"
                     height="1000"
                     width="1000"
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
