@@ -18,7 +18,7 @@ import ContactMe from "@/components/contact";
 
 const projects = [
     { title: ' UG_Lyrics', description: 'A Lyrics genarator built with React.', icon: <FaReact className='text-blue-500' /> },
-    { title: 'UG_JARVIS', description: 'A Virtual Assistance project', icon: <FaDatabase className='text-purple-500' /> },
+    { title: 'UG_JARVIS', description: 'A Virtual Assistance project.', icon: <FaDatabase className='text-purple-500' /> },
     
    
  
