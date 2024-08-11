@@ -17,9 +17,9 @@ import ContactMe from "@/components/contact";
 
 
 const projects = [
-    { title: ' Cards against Humanity', description: 'A game built with React.', icon: <FaReact className='text-blue-500' /> },
-    { title: 'MagicDocs OpenSource', description: 'A Next.js documentation project', icon: <FaDatabase className='text-purple-500' /> },
-    { title: 'MagicDocs OpenSource', description: 'A backend project using Next.js.', icon: <FaNodeJs className='text-green-500' /> },
+    { title: ' UG_Lyrics', description: 'A Lyrics genarator built with React.', icon: <FaReact className='text-blue-500' /> },
+    { title: 'UG_JARVIS', description: 'A Virtual Assistance project', icon: <FaDatabase className='text-purple-500' /> },
+    
    
  
   
