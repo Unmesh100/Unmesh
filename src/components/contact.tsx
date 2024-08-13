@@ -116,7 +116,7 @@ const ContactMe: React.FC = () => {
         </motion.a>
 
         <motion.a
-          href="www.linkedin.com/in/unmesh-ghosh"
+          href=" https://www.linkedin.com/in/unmesh-ghosh/ "
           className="flex flex-col items-center p-4 bg-transparent dark:bg-transparent dark:text-white rounded-lg border border-black dark:border-white shadow-sm hover:bg-gray-200 dark:hover:bg-gray-600 transition transform hover:scale-105 hover:rotate-3"
 
           whileHover={{ scale: 1.1, rotate: -5 }}
@@ -127,7 +127,7 @@ const ContactMe: React.FC = () => {
       </motion.div>
    <motion.h1
    className='text-black dark:text-white'>
-      drop a message for me? lets do it the git way !!! 
+      drop a message for me? lets do it the git way!  
    </motion.h1>
    <motion.h2
    className='text-green-500'>
