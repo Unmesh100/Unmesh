@@ -49,6 +49,7 @@ const images: ImageData[] = [
   { src: '/assests/skills/solidity.webp', alt: 'Solidity', tooltip: 'Solidity' },
   { src: '/assests/skills/python.webp', alt: 'Python', tooltip: 'Python' },
   { src: '/assests/skills/netlify.webp', alt: 'Netlify', tooltip: 'Netlify' },
+  { src: '/assests/skills/java.webp', alt: 'JAVA', tooltip: 'JAVA' },
 ];
 
 const HoverImageComponent: React.FC = () => {
