@@ -30,6 +30,7 @@ const slugs = [
   "postman",
   "netlify",
   "solidity",
+  "java",
 
 
 ];
