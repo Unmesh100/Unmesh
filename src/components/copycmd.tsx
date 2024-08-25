@@ -8,7 +8,7 @@ import { toast } from "./ui/use-toast";
 const CopyCmd = () => {
     const [copied, setCopied] = useState(false);
     const handleCopyToClipboard = () => {
-        const textToCopy = "npx ug28";
+        const textToCopy = "npx unmesh100";
         navigator.clipboard
             .writeText(textToCopy)
             .then(() => {
@@ -34,7 +34,7 @@ const CopyCmd = () => {
     return (
         <div onClick={handleCopyToClipboard} className="homepagecontactbtn">
             {copied ? <ClipboardCheck /> : <Clipboard />}
-            npx ug28
+            npx unmesh100
         </div>
     );
 };
