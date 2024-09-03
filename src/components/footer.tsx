@@ -11,7 +11,7 @@ export default function Footer() {
             <Tooltip>
               <TooltipTrigger asChild>
                 <Link
-                  href="https://x.com/Unmesh_Ghosh"
+                  href="https://x.com/Unmesh100"
                   target="_blank"
                   className="text-muted-foreground hover:text-primary transition-colors"
                   prefetch={false}
@@ -20,7 +20,7 @@ export default function Footer() {
                 </Link>
               </TooltipTrigger>
               <TooltipContent>
-                <p>https://x.com/Unmesh_Ghosh</p>
+                <p>https://x.com/Unmesh100</p>
               </TooltipContent>
             </Tooltip>
           </TooltipProvider>
