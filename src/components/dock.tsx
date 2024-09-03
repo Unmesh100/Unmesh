@@ -18,7 +18,7 @@ export function DockDemo() {
           </a>
         </DockIcon>
         <DockIcon>
-        <a href="https://x.com/Unmesh_Ghosh"  rel="noopener noreferrer">
+        <a href="https://x.com/Unmesh100"  rel="noopener noreferrer">
             <Icons.twitte className="h-10 w-10" />
           </a>
         </DockIcon>
